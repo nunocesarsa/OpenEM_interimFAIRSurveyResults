@@ -1,9 +1,9 @@
 # Open Earth Monitor - Interim results of the "Broad survey on FAIR data" 
 
-Survey starting date: 25/10/2022 until December 2024 (planned)..<br>
+Survey starting date: 25/10/2022 until December 2024 (planned).<br>
 Data on this repository: 25/10/2022 - 25/10/2022 to 16/11/2022.<br>
 
-Link for live survey: https://ec.europa.eu/eusurvey/runner/OpenEM-Survey-FAIR-geospatial-data .<br>
+Link for live survey: https://ec.europa.eu/eusurvey/runner/OpenEM-Survey-FAIR-geospatial-data <br>
 
 File description:.<br>
 
