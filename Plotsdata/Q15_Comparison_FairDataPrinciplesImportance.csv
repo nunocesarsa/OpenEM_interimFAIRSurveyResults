@@ -1,0 +1,130 @@
+"";"Group";"variable2";"value2";"count";"percent";"percent2";"variable2_wrap";"percent2_sel"
+"1";"Producer / Provider";"Data must be easily accessible";"Extremely important";15;0,46875;"47%";"Data must be easily
+accessible";"47%"
+"2";"Producer / Provider";"Data must be easily accessible";"Very important";9;0,28125;"28%";"Data must be easily
+accessible";"28%"
+"3";"Producer / Provider";"Data must be easily accessible";"Important";8;0,25;"25%";"Data must be easily
+accessible";"25%"
+"4";"Producer / Provider";"Data must be easily integrated into existing applications";"Extremely important";9;0,28125;"28%";"Data must be
+easily integrated
+into existing
+applications";"28%"
+"5";"Producer / Provider";"Data must be easily integrated into existing applications";"Very important";11;0,34375;"34%";"Data must be
+easily integrated
+into existing
+applications";"34%"
+"6";"Producer / Provider";"Data must be easily integrated into existing applications";"Important";10;0,3125;"31%";"Data must be
+easily integrated
+into existing
+applications";"31%"
+"7";"Producer / Provider";"Data must be easily integrated into existing applications";"Slightly important";2;0,0625;"6%";"Data must be
+easily integrated
+into existing
+applications";NA
+"8";"Producer / Provider";"Data must be easy and quick to find";"Extremely important";14;0,4375;"44%";"Data must be easy
+and quick to find";"44%"
+"9";"Producer / Provider";"Data must be easy and quick to find";"Very important";10;0,3125;"31%";"Data must be easy
+and quick to find";"31%"
+"10";"Producer / Provider";"Data must be easy and quick to find";"Important";7;0,21875;"22%";"Data must be easy
+and quick to find";"22%"
+"11";"Producer / Provider";"Data must be easy and quick to find";"Slightly important";1;0,03125;"3%";"Data must be easy
+and quick to find";NA
+"12";"Producer / Provider";"Data must be interoperable with other data";"Extremely important";8;0,25;"25%";"Data must be
+interoperable with
+other data";"25%"
+"13";"Producer / Provider";"Data must be interoperable with other data";"Very important";12;0,375;"38%";"Data must be
+interoperable with
+other data";"38%"
+"14";"Producer / Provider";"Data must be interoperable with other data";"Important";10;0,3125;"31%";"Data must be
+interoperable with
+other data";"31%"
+"15";"Producer / Provider";"Data must be interoperable with other data";"Slightly important";2;0,0625;"6%";"Data must be
+interoperable with
+other data";NA
+"16";"Producer / Provider";"Data must be reproducible";"Extremely important";9;0,28125;"28%";"Data must be
+reproducible";"28%"
+"17";"Producer / Provider";"Data must be reproducible";"Very important";9;0,28125;"28%";"Data must be
+reproducible";"28%"
+"18";"Producer / Provider";"Data must be reproducible";"Important";9;0,28125;"28%";"Data must be
+reproducible";"28%"
+"19";"Producer / Provider";"Data must be reproducible";"Slightly important";5;0,15625;"16%";"Data must be
+reproducible";NA
+"20";"Producer / Provider";"Data must be reusable";"Extremely important";13;0,40625;"41%";"Data must be
+reusable";"41%"
+"21";"Producer / Provider";"Data must be reusable";"Very important";8;0,25;"25%";"Data must be
+reusable";"25%"
+"22";"Producer / Provider";"Data must be reusable";"Important";5;0,15625;"16%";"Data must be
+reusable";"16%"
+"23";"Producer / Provider";"Data must be reusable";"Slightly important";3;0,09375;"9%";"Data must be
+reusable";NA
+"24";"Producer / Provider";"Data must be reusable";"No opinion";3;0,09375;"9%";"Data must be
+reusable";NA
+"25";"User";"Data must be easily accessible ";"Extremely important";45;0,548780487804878;"55%";"Data must be easily
+accessible";"55%"
+"26";"User";"Data must be easily accessible ";"Very important";25;0,304878048780488;"30%";"Data must be easily
+accessible";"30%"
+"27";"User";"Data must be easily accessible ";"Important";9;0,109756097560976;"11%";"Data must be easily
+accessible";"11%"
+"28";"User";"Data must be easily accessible ";"Slightly important";3;0,0365853658536585;"4%";"Data must be easily
+accessible";NA
+"29";"User";"Data must be easily integrated into existing applications ";"Extremely important";23;0,280487804878049;"28%";"Data must be
+easily integrated
+into existing
+applications";"28%"
+"30";"User";"Data must be easily integrated into existing applications ";"Very important";23;0,280487804878049;"28%";"Data must be
+easily integrated
+into existing
+applications";"28%"
+"31";"User";"Data must be easily integrated into existing applications ";"Important";24;0,292682926829268;"29%";"Data must be
+easily integrated
+into existing
+applications";"29%"
+"32";"User";"Data must be easily integrated into existing applications ";"Slightly important";12;0,146341463414634;"15%";"Data must be
+easily integrated
+into existing
+applications";NA
+"33";"User";"Data must be easy and quick to find ";"Extremely important";34;0,414634146341463;"41%";"Data must be easy
+and quick to find";"41%"
+"34";"User";"Data must be easy and quick to find ";"Very important";26;0,317073170731707;"32%";"Data must be easy
+and quick to find";"32%"
+"35";"User";"Data must be easy and quick to find ";"Important";14;0,170731707317073;"17%";"Data must be easy
+and quick to find";"17%"
+"36";"User";"Data must be easy and quick to find ";"Slightly important";8;0,0975609756097561;"10%";"Data must be easy
+and quick to find";NA
+"37";"User";"Data must be interoperable with other data";"Extremely important";23;0,280487804878049;"28%";"Data must be
+interoperable with
+other data";"28%"
+"38";"User";"Data must be interoperable with other data";"Very important";18;0,219512195121951;"22%";"Data must be
+interoperable with
+other data";"22%"
+"39";"User";"Data must be interoperable with other data";"Important";32;0,390243902439024;"39%";"Data must be
+interoperable with
+other data";"39%"
+"40";"User";"Data must be interoperable with other data";"Slightly important";8;0,0975609756097561;"10%";"Data must be
+interoperable with
+other data";NA
+"41";"User";"Data must be interoperable with other data";"Not important";1;0,0121951219512195;"1%";"Data must be
+interoperable with
+other data";NA
+"42";"User";"Data must be reproducible ";"Extremely important";23;0,280487804878049;"28%";"Data must be
+reproducible";"28%"
+"43";"User";"Data must be reproducible ";"Very important";16;0,195121951219512;"20%";"Data must be
+reproducible";"20%"
+"44";"User";"Data must be reproducible ";"Important";20;0,24390243902439;"24%";"Data must be
+reproducible";"24%"
+"45";"User";"Data must be reproducible ";"Slightly important";17;0,207317073170732;"21%";"Data must be
+reproducible";NA
+"46";"User";"Data must be reproducible ";"Not important";3;0,0365853658536585;"4%";"Data must be
+reproducible";NA
+"47";"User";"Data must be reproducible ";"No opinion";3;0,0365853658536585;"4%";"Data must be
+reproducible";NA
+"48";"User";"Data must be reusable";"Extremely important";30;0,365853658536585;"37%";"Data must be
+reusable";"37%"
+"49";"User";"Data must be reusable";"Very important";25;0,304878048780488;"30%";"Data must be
+reusable";"30%"
+"50";"User";"Data must be reusable";"Important";20;0,24390243902439;"24%";"Data must be
+reusable";"24%"
+"51";"User";"Data must be reusable";"Slightly important";3;0,0365853658536585;"4%";"Data must be
+reusable";NA
+"52";"User";"Data must be reusable";"No opinion";4;0,0487804878048781;"5%";"Data must be
+reusable";NA

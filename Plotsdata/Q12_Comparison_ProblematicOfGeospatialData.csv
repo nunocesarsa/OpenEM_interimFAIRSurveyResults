@@ -1,0 +1,114 @@
+"";"Group";"variable2";"value2";"count";"percent";"percent2";"variable2_wrap";"percent2_sel"
+"1";"Producer / Provider";"Data access requires identification   registration";"Extremely problematic";1;0,03125;"3%";"Data access requires
+identification
+registration";"3%"
+"2";"Producer / Provider";"Data access requires identification   registration";"Very problematic";5;0,15625;"16%";"Data access requires
+identification
+registration";"16%"
+"3";"Producer / Provider";"Data access requires identification   registration";"Problematic";3;0,09375;"9%";"Data access requires
+identification
+registration";"9%"
+"4";"Producer / Provider";"Data access requires identification   registration";"Slightly problematic";15;0,46875;"47%";"Data access requires
+identification
+registration";"47%"
+"5";"Producer / Provider";"Data access requires identification   registration";"Not problematic";8;0,25;"25%";"Data access requires
+identification
+registration";"25%"
+"6";"Producer / Provider";"Data are not available in the right formats ";"Extremely problematic";4;0,125;"12%";"Data are not
+available in the
+right formats";"12%"
+"7";"Producer / Provider";"Data are not available in the right formats ";"Very problematic";9;0,28125;"28%";"Data are not
+available in the
+right formats";"28%"
+"8";"Producer / Provider";"Data are not available in the right formats ";"Problematic";13;0,40625;"41%";"Data are not
+available in the
+right formats";"41%"
+"9";"Producer / Provider";"Data are not available in the right formats ";"Slightly problematic";6;0,1875;"19%";"Data are not
+available in the
+right formats";"19%"
+"10";"Producer / Provider";"Data are not open ";"Extremely problematic";14;0,4375;"44%";"Data are not open";"44%"
+"11";"Producer / Provider";"Data are not open ";"Very problematic";9;0,28125;"28%";"Data are not open";"28%"
+"12";"Producer / Provider";"Data are not open ";"Problematic";3;0,09375;"9%";"Data are not open";"9%"
+"13";"Producer / Provider";"Data are not open ";"Slightly problematic";6;0,1875;"19%";"Data are not open";"19%"
+"14";"Producer / Provider";"Data have poor   incomplete metadata ";"Extremely problematic";7;0,21875;"22%";"Data have poor
+incomplete metadata";"22%"
+"15";"Producer / Provider";"Data have poor   incomplete metadata ";"Very problematic";11;0,34375;"34%";"Data have poor
+incomplete metadata";"34%"
+"16";"Producer / Provider";"Data have poor   incomplete metadata ";"Problematic";11;0,34375;"34%";"Data have poor
+incomplete metadata";"34%"
+"17";"Producer / Provider";"Data have poor   incomplete metadata ";"Slightly problematic";3;0,09375;"9%";"Data have poor
+incomplete metadata";"9%"
+"18";"Producer / Provider";"Data need to be ordered ";"Extremely problematic";4;0,125;"12%";"Data need to be
+ordered";"12%"
+"19";"Producer / Provider";"Data need to be ordered ";"Very problematic";5;0,15625;"16%";"Data need to be
+ordered";"16%"
+"20";"Producer / Provider";"Data need to be ordered ";"Problematic";14;0,4375;"44%";"Data need to be
+ordered";"44%"
+"21";"Producer / Provider";"Data need to be ordered ";"Slightly problematic";8;0,25;"25%";"Data need to be
+ordered";"25%"
+"22";"Producer / Provider";"Data need to be ordered ";"Not problematic";1;0,03125;"3%";"Data need to be
+ordered";"3%"
+"23";"User";"Data access requires identification   registration";"Extremely problematic";2;0,024390243902439;"2%";"Data access requires
+identification
+registration";"2%"
+"24";"User";"Data access requires identification   registration";"Very problematic";9;0,109756097560976;"11%";"Data access requires
+identification
+registration";"11%"
+"25";"User";"Data access requires identification   registration";"Problematic";13;0,158536585365854;"16%";"Data access requires
+identification
+registration";"16%"
+"26";"User";"Data access requires identification   registration";"Slightly problematic";24;0,292682926829268;"29%";"Data access requires
+identification
+registration";"29%"
+"27";"User";"Data access requires identification   registration";"Not problematic";33;0,402439024390244;"40%";"Data access requires
+identification
+registration";"40%"
+"28";"User";"Data access requires identification   registration";"No opinion";1;0,0121951219512195;"1%";"Data access requires
+identification
+registration";NA
+"29";"User";"Data are not available in the right formats ";"Extremely problematic";10;0,121951219512195;"12%";"Data are not
+available in the
+right formats";"12%"
+"30";"User";"Data are not available in the right formats ";"Very problematic";27;0,329268292682927;"33%";"Data are not
+available in the
+right formats";"33%"
+"31";"User";"Data are not available in the right formats ";"Problematic";24;0,292682926829268;"29%";"Data are not
+available in the
+right formats";"29%"
+"32";"User";"Data are not available in the right formats ";"Slightly problematic";16;0,195121951219512;"20%";"Data are not
+available in the
+right formats";"20%"
+"33";"User";"Data are not available in the right formats ";"Not problematic";4;0,0487804878048781;"5%";"Data are not
+available in the
+right formats";"5%"
+"34";"User";"Data are not available in the right formats ";"No opinion";1;0,0121951219512195;"1%";"Data are not
+available in the
+right formats";NA
+"35";"User";"Data are not open ";"Extremely problematic";26;0,317073170731707;"32%";"Data are not open";"32%"
+"36";"User";"Data are not open ";"Very problematic";21;0,25609756097561;"26%";"Data are not open";"26%"
+"37";"User";"Data are not open ";"Problematic";21;0,25609756097561;"26%";"Data are not open";"26%"
+"38";"User";"Data are not open ";"Slightly problematic";12;0,146341463414634;"15%";"Data are not open";"15%"
+"39";"User";"Data are not open ";"Not problematic";1;0,0121951219512195;"1%";"Data are not open";"1%"
+"40";"User";"Data are not open ";"No opinion";1;0,0121951219512195;"1%";"Data are not open";NA
+"41";"User";"Data have poor   incomplete metadata ";"Extremely problematic";16;0,195121951219512;"20%";"Data have poor
+incomplete metadata";"20%"
+"42";"User";"Data have poor   incomplete metadata ";"Very problematic";37;0,451219512195122;"45%";"Data have poor
+incomplete metadata";"45%"
+"43";"User";"Data have poor   incomplete metadata ";"Problematic";18;0,219512195121951;"22%";"Data have poor
+incomplete metadata";"22%"
+"44";"User";"Data have poor   incomplete metadata ";"Slightly problematic";10;0,121951219512195;"12%";"Data have poor
+incomplete metadata";"12%"
+"45";"User";"Data have poor   incomplete metadata ";"Not problematic";1;0,0121951219512195;"1%";"Data have poor
+incomplete metadata";"1%"
+"46";"User";"Data need to be ordered ";"Extremely problematic";14;0,170731707317073;"17%";"Data need to be
+ordered";"17%"
+"47";"User";"Data need to be ordered ";"Very problematic";10;0,121951219512195;"12%";"Data need to be
+ordered";"12%"
+"48";"User";"Data need to be ordered ";"Problematic";20;0,24390243902439;"24%";"Data need to be
+ordered";"24%"
+"49";"User";"Data need to be ordered ";"Slightly problematic";26;0,317073170731707;"32%";"Data need to be
+ordered";"32%"
+"50";"User";"Data need to be ordered ";"Not problematic";8;0,0975609756097561;"10%";"Data need to be
+ordered";"10%"
+"51";"User";"Data need to be ordered ";"No opinion";4;0,0487804878048781;"5%";"Data need to be
+ordered";NA

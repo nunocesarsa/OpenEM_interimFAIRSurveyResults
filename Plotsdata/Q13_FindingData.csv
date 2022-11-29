@@ -1,0 +1,33 @@
+"";"Group";"PreferredMethod";"count";"percent";"percent2";"PreferredMethod_sort";"PreferredMethod_sort_wrap"
+"1";"Producer / provider";"On a website";26;0,8125;"81%";"On a website";"On a website"
+"2";"Producer / provider";"Other";1;0,03125;"3%";"Other";"Other"
+"3";"Producer / provider";"Through a commercial data provider";5;0,15625;"16%";"Through a commercial data provider";"Through a commercial
+data provider"
+"4";"Producer / provider";"Through data hubs (e.g. Copernicus Open Access Hub, Sentinel Hub)";7;0,21875;"22%";"Through data hubs (e.g. Copernicus Open Access Hub, Sentinel Hub)";"Through data hubs
+(e.g. Copernicus
+Open Access Hub,
+Sentinel Hub)"
+"5";"Producer / provider";"Through geospatial catalogs (e.g. geoportal)";19;0,59375;"59%";"Through geospatial catalogs (e.g. geoportal)";"Through geospatial
+catalogs (e.g.
+geoportal)"
+"6";"Producer / provider";"Through open repositories (e.g. zenodo)";9;0,28125;"28%";"Through open repositories (e.g. zenodo)";"Through open
+repositories (e.g.
+zenodo)"
+"7";"User";"I do not search for data myself";1;0,0121951219512195;"1%";"I do not search for data myself";"I do not search for
+data myself"
+"8";"User";"Other";8;0,0975609756097561;"10%";"Other";"Other"
+"9";"User";"Through a commercial data provider";8;0,0975609756097561;"10%";"Through a commercial data provider";"Through a commercial
+data provider"
+"10";"User";"Through data hubs (e.g. Copernicus Open Access Hub, Sentinel Hub)";45;0,548780487804878;"55%";"Through data hubs (e.g. Copernicus Open Access Hub, Sentinel Hub)";"Through data hubs
+(e.g. Copernicus
+Open Access Hub,
+Sentinel Hub)"
+"11";"User";"Through geospatial catalogs (e.g. geoportal)";41;0,5;"50%";"Through geospatial catalogs (e.g. geoportal)";"Through geospatial
+catalogs (e.g.
+geoportal)"
+"12";"User";"Through open repositories (e.g. zenodo)";18;0,219512195121951;"22%";"Through open repositories (e.g. zenodo)";"Through open
+repositories (e.g.
+zenodo)"
+"13";"User";"Through web search (e.g. via Google, Bing, Ecosia)";65;0,792682926829268;"79%";"Through web search (e.g. via Google, Bing, Ecosia)";"Through web search
+(e.g. via Google,
+Bing, Ecosia)"

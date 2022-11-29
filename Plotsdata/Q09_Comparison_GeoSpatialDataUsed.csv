@@ -1,0 +1,39 @@
+"";"Group";"TypeOfDataUsed";"count";"percent";"percent2";"TypeOfDataUsed_Wrapped"
+"1";"Producer / provider";"Citizen science data";2;0,0625;"6%";"Citizen science data"
+"2";"Producer / provider";"Commercial Satellite-based remote sensing data & derived products";8;0,25;"25%";"Commercial Satellite-
+based remote sensing data
+& derived products"
+"3";"Producer / provider";"Data from IoT / smart sensors";3;0,09375;"9%";"Data from IoT / smart
+sensors"
+"4";"Producer / provider";"In-situ data";9;0,28125;"28%";"In-situ data"
+"5";"Producer / provider";"Open Satellite-based remote sensing data & derived products";22;0,6875;"69%";"Open Satellite-based
+remote sensing data &
+derived products"
+"6";"Producer / provider";"Other environmental data / information";5;0,15625;"16%";"Other environmental
+data / information"
+"7";"Producer / provider";"Other geospatial data sets";8;0,25;"25%";"Other geospatial data
+sets"
+"8";"Producer / provider";"Other remote sensing data & derived products (e.g. from airborne, UAVs, terrestrial laser scanner)";9;0,28125;"28%";"Other remote sensing
+data & derived products
+(e.g. from airborne,
+UAVs, terrestrial laser
+scanner)"
+"9";"User";"Citizen science data";9;0,109756097560976;"11%";"Citizen science data"
+"10";"User";"Commercial Satellite-based remote sensing data & derived products";17;0,207317073170732;"21%";"Commercial Satellite-
+based remote sensing data
+& derived products"
+"11";"User";"Data from IoT / smart sensors";9;0,109756097560976;"11%";"Data from IoT / smart
+sensors"
+"12";"User";"In-situ data";40;0,48780487804878;"49%";"In-situ data"
+"13";"User";"Open Satellite-based remote sensing data & derived products";72;0,878048780487805;"88%";"Open Satellite-based
+remote sensing data &
+derived products"
+"14";"User";"Other environmental data / information";23;0,280487804878049;"28%";"Other environmental
+data / information"
+"15";"User";"Other geospatial data sets";18;0,219512195121951;"22%";"Other geospatial data
+sets"
+"16";"User";"Other remote sensing data & derived products (e.g. from airborne, UAVs, terrestrial laser scanner)";27;0,329268292682927;"33%";"Other remote sensing
+data & derived products
+(e.g. from airborne,
+UAVs, terrestrial laser
+scanner)"

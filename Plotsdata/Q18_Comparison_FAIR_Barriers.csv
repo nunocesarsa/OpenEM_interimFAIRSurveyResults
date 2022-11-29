@@ -1,0 +1,34 @@
+"";"BarriersFAIRdata";"Group";"count";"percent";"percent2";"BarriersFAIRdata_wrap"
+"1";"Concerns about licensing.";"User";16;0,195121951219512;"20%";"Concerns about licensing."
+"2";"FAIR data is not necessarily open.";"User";21;0,25609756097561;"26%";"FAIR data is not necessarily
+open."
+"3";"I don't know";"User";23;0,280487804878049;"28%";"I don't know"
+"4";"Lack of awareness of which data sets are FAIR (e.g. missing label or identifier).";"User";40;0,48780487804878;"49%";"Lack of awareness of which
+data sets are FAIR (e.g.
+missing label or identifier)."
+"5";"Lack of guidelines how to use FAIR data.";"User";20;0,24390243902439;"24%";"Lack of guidelines how to use
+FAIR data."
+"6";"Lack of knowledge about the benefits of FAIR data.";"User";35;0,426829268292683;"43%";"Lack of knowledge about the
+benefits of FAIR data."
+"7";"Missing technical solutions (e.g. missing tools to read data).";"User";15;0,182926829268293;"18%";"Missing technical solutions
+(e.g. missing tools to read
+data)."
+"8";"Competitive disadvantage (e.g. missing business opportunities)";"Producer / provider";7;0,21875;"22%";"Competitive disadvantage
+(e.g. missing business
+opportunities)"
+"9";"Disagreement on data use (e.g. potential misuse)";"Producer / provider";11;0,34375;"34%";"Disagreement on data use (e.g.
+potential misuse)"
+"10";"I don't know";"Producer / provider";4;0,125;"12%";"I don't know"
+"11";"Lack of guidelines (e.g. guidelines are missing, incomplete or unclear)";"Producer / provider";11;0,34375;"34%";"Lack of guidelines (e.g.
+guidelines are missing,
+incomplete or unclear)"
+"12";"Lack of resources (e.g. personnel, time)";"Producer / provider";22;0,6875;"69%";"Lack of resources (e.g.
+personnel, time)"
+"13";"Missing incentives (e.g. uncertain benefit, lack of recognition)";"Producer / provider";16;0,5;"50%";"Missing incentives (e.g.
+uncertain benefit, lack of
+recognition)"
+"14";"Missing technical solutions (e.g. missing tools)";"Producer / provider";4;0,125;"12%";"Missing technical solutions
+(e.g. missing tools)"
+"15";"Restrictive policies (e.g. restrict data sharing guidelines)";"Producer / provider";9;0,28125;"28%";"Restrictive policies (e.g.
+restrict data sharing
+guidelines)"
