@@ -1,4 +1,4 @@
-#Open Earth Monitor - Interim results of the "Broad survey on FAIR data" 
+# Open Earth Monitor - Interim results of the "Broad survey on FAIR data" 
 
 Survey starting date: 25/10/2022 until December 2024 (planned)..<br>
 Data on this repository: 25/10/2022 - 25/10/2022 to 16/11/2022.<br>
