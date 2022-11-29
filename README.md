@@ -5,7 +5,7 @@ Data on this repository: 25/10/2022 - 25/10/2022 to 16/11/2022.<br>
 
 Link for live survey: https://ec.europa.eu/eusurvey/runner/OpenEM-Survey-FAIR-geospatial-data <br>
 
-File description:.<br>
+File description:<br>
 
 Data/SurveyResp_20221117.csv                          - Raw output from EU Survey.<br>
 Data/SurveyResp_20221117_Questions_and_Answers.xlsx   - Summary data of questions and answers.<br>
