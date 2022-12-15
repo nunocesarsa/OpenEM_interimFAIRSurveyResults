@@ -17,3 +17,7 @@ Plotsdata/QXX.csv                                     - Data snippets used for e
 R_installedpackages.txt                               - R packages installed in the system and their version.<br>
 CC-By-4.0                                             - CC-By-4.0 licensing.<br>
 LICENSE.txt                                           - GNU General public license text.<br>
+
+Funding:
+Horizon Europe research (grant agreement No.101059548)
+June 2022 to July 2026
